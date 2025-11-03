@@ -1,5 +1,4 @@
-Data set is not uploaded on github as it is a big file with more than 25 mb.
-#Zomato Data Analysis
+#ZOMATO_DATA_ANALYSIS
 
 Overview:
 An exploratory data analysis (EDA) project on restaurant and food delivery data to uncover trends in customer preferences and restaurant performance.
